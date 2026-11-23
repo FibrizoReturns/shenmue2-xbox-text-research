@@ -1,0 +1,10 @@
+metric,value,note
+xbox_len,7680,
+xbox_slots_30b,256,
+dc_len,351270,
+dc_slots_45b,7806,24x15 布局
+xbox_eq_dc_prefix,0,
+xbox_eq_dc_suffix,0,
+xbox_eq_kanji_prefix,0,
+xbox_found_in_dc_at,-1,-1 表示不存在
+dc_ryou_eq_dc_kanji,0,
