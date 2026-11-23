@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+# 本仓库不接收任何游戏原始资源
+*.AFS
+*.afs
+*.FON
+*.fon
+*.xbe
+*.iso
